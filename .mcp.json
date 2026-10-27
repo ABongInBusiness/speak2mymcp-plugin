@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "speak2mymcp": {
+      "type": "http",
+      "url": "https://speak2mycv.com/api/mcp"
+    }
+  }
+}

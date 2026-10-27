@@ -1,0 +1,15 @@
+{
+  "name": "speak2mycv",
+  "description": "Speak2MyCV plugins for Claude: talk to real professionals through their own CV.",
+  "owner": {
+    "name": "Bong Innovations Pvt Ltd (OPC)",
+    "email": "ceo@speak2mycv.com"
+  },
+  "plugins": [
+    {
+      "name": "speak2mymcp",
+      "source": "./",
+      "description": "Read opted-in professionals' published profiles, ask questions answered only from their own CV, and send confirmed, verified enquiries."
+    }
+  ]
+}
