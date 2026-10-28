@@ -1,7 +1,7 @@
 {
   "name": "speak2mymcp",
   "displayName": "Speak2MyMCP by Speak2MyCV",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Read opted-in professionals' published profiles, ask questions answered only from their own CV, and send confirmed, verified enquiries.",
   "author": {
     "name": "Bong Innovations Pvt Ltd (OPC)",
@@ -9,6 +9,7 @@
     "url": "https://speak2mycv.com/company"
   },
   "homepage": "https://speak2mycv.com/speak2mymcp",
+  "repository": "https://github.com/ABongInBusiness/speak2mymcp-plugin",
   "privacyPolicyUrl": "https://speak2mycv.com/legal/privacy",
   "license": "MIT",
   "keywords": [
