@@ -10,14 +10,14 @@ In Claude Code:
 
 ```
 /plugin marketplace add ABongInBusiness/speak2mymcp-plugin
-/plugin install speak2mymcp@speak2mycv
+/plugin install speak2mymcp
 ```
 
 Recent Claude Code versions also accept one line: `/plugin install speak2mymcp --marketplace ABongInBusiness/speak2mymcp-plugin`.
 
 In Claude (web, Desktop, mobile), add **Speak2MyMCP by Speak2MyCV** from the Connectors directory, or add a custom connector with the URL `https://speak2mycv.com/api/mcp`.
 
-To remove it: `/plugin uninstall speak2mymcp@speak2mycv`, or remove the connector in Claude's settings.
+To remove it: `/plugin uninstall speak2mymcp`, or remove the connector in Claude's settings.
 
 ## Try it
 

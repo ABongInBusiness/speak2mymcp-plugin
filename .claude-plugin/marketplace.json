@@ -11,7 +11,7 @@
       "name": "speak2mymcp",
       "source": "./",
       "description": "Read opted-in professionals' published profiles, ask questions answered only from their own CV, and send confirmed, verified enquiries.",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "category": "productivity",
       "homepage": "https://speak2mycv.com/speak2mymcp",
       "repository": "https://github.com/ABongInBusiness/speak2mymcp-plugin",
